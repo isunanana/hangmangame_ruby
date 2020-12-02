@@ -1,1 +1,1 @@
-# hangmangame_ruby
+# Hangman game using Ruby
